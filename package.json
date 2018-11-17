@@ -12,9 +12,12 @@
     "rimraf": "^2.6.2",
     "yargs": "^12.0.2"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/star2018/font2icons.git"
   },
   "author": {
     "name": "star",
